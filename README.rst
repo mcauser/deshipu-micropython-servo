@@ -1,3 +1,5 @@
+Fork of the now archived https://bitbucket.org/thesheep/micropython-servo
+
 A Micropython Library for Hobby Servo Control for ESP8266
 *********************************************************
 
